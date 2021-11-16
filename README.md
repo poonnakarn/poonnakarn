@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Poonnakarn Panjasriprakarn.
-- 👀 I’m interested in Internal medicine, Neurology and Computer Science.
-- 🌱 I’m currently learning Neurology Fellowship.
-- 💞️ I’m looking to collaborate on data science project and creating mobile applications.
+- 👀 I’m interested in Internal Medicine, Neurology, Philosophy and Computer Science.
+- 🌱 I’m currently in Fellowship of Neurology training.
+- 💞️ I’m looking to collaborate on data science projects and creating mobile and web applications.
 - 📫 How to reach me: poonnakarn@gmaill.com, FB: poonnakarn panjasriprakarn
 
 <!---
